@@ -1,0 +1,9 @@
+Thrif: Thrif是Facebook捐给Apache的一个RPC框架
+Dubbo:
+Webservice:
+http:
+hessian:
+rmi:
+dubbo:
+triple:
+
